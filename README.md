@@ -1,3 +1,3 @@
-# Your blog
+# My personal blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+My personal blog forked from [fastai/fast_template](https://github.com/fastai/fast_template) build with Github Pages and Jekyll
